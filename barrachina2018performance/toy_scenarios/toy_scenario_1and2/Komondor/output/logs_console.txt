@@ -1,0 +1,844 @@
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb0.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_01_cb0.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 109.363968 Mbps (142.40 pkt/s)
+  - Average delay from 142400 measurements = 0.007022 s (7.02 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142401 - RTS/CTS lost = 0  (0.00 % lost)
+    · RTS lost due to slotted BO = 0 (0.000000 %)
+  - Data packets sent = 142401 - ACKed = 142400 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142401 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 950.662400 s (95.07 %)
+    · - 2: 0.000000 s (0.00 %)
+    · - 4: 0.000000 s (0.00 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 950.66 s (95.07 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 956.37 s (95.64 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.13 MHz / 80 MHz (23.91 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 142401 (100.00 %)
+    · - 2: 0 (0.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000110 (12.274411 slots)
+  - Expected BO = 0.000067 (7.496640 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 109.364736 Mbps (142.40 pkt/s)
+  - Average delay from 142401 measurements = 0.007022 s (7.02 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142402 - RTS/CTS lost = 0  (0.00 % lost)
+    · RTS lost due to slotted BO = 0 (0.000000 %)
+  - Data packets sent = 142402 - ACKed = 142401 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142402 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 950.669076 s (95.07 %)
+    · - 2: 0.000000 s (0.00 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 950.67 s (95.07 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 956.37 s (95.64 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.13 MHz / 40 MHz (47.82 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 142402 (100.00 %)
+    · - 2: 0 (0.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000110 (12.264126 slots)
+  - Expected BO = 0.000067 (7.486356 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb0.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_01_cb0.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 2848045 events processed in 12.088 seconds, event processing rate: 235606
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb2.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_01_cb2.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 123.207168 Mbps (160.43 pkt/s)
+  - Average delay from 160426 measurements = 0.006233 s (6.23 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 176567 - RTS/CTS lost = 16141  (9.14 % lost)
+    · RTS lost due to slotted BO = 16141 (9.141572 %)
+  - Data packets sent = 160426 - ACKed = 160426 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 654304 - num_tx_init_not_possible = 477737 (73.014531 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 0.000000 s (0.00 %)
+    · - 4: 279.665624 s (27.97 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 279.67 s (27.97 %)
+    · - 1 = 279.67 s (27.97 %)
+    · - 2 = 279.67 s (27.97 %)
+    · - 3 = 279.67 s (27.97 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 285.18 s (28.52 %)
+    · - 1 = 285.18 s (28.52 %)
+    · - 2 = 285.18 s (28.52 %)
+    · - 3 = 285.18 s (28.52 %)
+       + - Average bandwidth used for transmitting = 22.81 MHz / 80 MHz (28.52 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 0 (0.00 %)
+    · - 4: 176567 (100.00 %)
+  - num_tx_init_not_possible = 477737
+  - average_waiting_time = 0.003923 (435.845318 slots)
+  - Expected BO = 0.000075 (8.366954 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 137.086464 Mbps (178.50 pkt/s)
+  - Average delay from 178497 measurements = 0.005602 s (5.60 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 194639 - RTS/CTS lost = 16141  (8.29 % lost)
+    · RTS lost due to slotted BO = 16141 (8.292788 %)
+  - Data packets sent = 178498 - ACKed = 178497 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 194639 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 613.695508 s (61.37 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 613.70 s (61.37 %)
+    · - 3 = 613.70 s (61.37 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 619.93 s (61.99 %)
+    · - 3 = 619.93 s (61.99 %)
+       + - Average bandwidth used for transmitting = 24.80 MHz / 40 MHz (61.99 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 194639 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.001768 (196.401725 slots)
+  - Expected BO = 0.000075 (8.308355 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb2.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_01_cb2.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 4656220 events processed in 13.972 seconds, event processing rate: 333252
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb4.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_01_cb4.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 204.700416 Mbps (266.54 pkt/s)
+  - Average delay from 266536 measurements = 0.003752 s (3.75 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 267316 - RTS/CTS lost = 779  (0.29 % lost)
+    · RTS lost due to slotted BO = 779 (0.291415 %)
+  - Data packets sent = 266537 - ACKed = 266536 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 267316 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 900.960672 s (90.10 %)
+    · - 4: 6.516432 s (0.65 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 907.48 s (90.75 %)
+    · - 1 = 907.48 s (90.75 %)
+    · - 2 = 6.52 s (0.65 %)
+    · - 3 = 6.52 s (0.65 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 918.10 s (91.81 %)
+    · - 1 = 918.10 s (91.81 %)
+    · - 2 = 6.62 s (0.66 %)
+    · - 3 = 6.62 s (0.66 %)
+       + - Average bandwidth used for transmitting = 36.99 MHz / 80 MHz (46.24 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 262825 (98.32 %)
+    · - 4: 4491 (1.68 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000111 (12.308023 slots)
+  - Expected BO = 0.000068 (7.530249 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 201.911808 Mbps (262.91 pkt/s)
+  - Average delay from 262905 measurements = 0.003804 s (3.80 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 263685 - RTS/CTS lost = 779  (0.30 % lost)
+    · RTS lost due to slotted BO = 779 (0.295428 %)
+  - Data packets sent = 262906 - ACKed = 262905 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 263685 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 901.325588 s (90.13 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 901.33 s (90.13 %)
+    · - 3 = 901.33 s (90.13 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 911.80 s (91.18 %)
+    · - 3 = 911.80 s (91.18 %)
+       + - Average bandwidth used for transmitting = 36.47 MHz / 40 MHz (91.18 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 263685 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000139 (15.431200 slots)
+  - Expected BO = 0.000068 (7.521983 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb4.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_01_cb4.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 5305939 events processed in 19.555 seconds, event processing rate: 271341
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb6.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_01_cb6.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 142.693632 Mbps (185.80 pkt/s)
+  - Average delay from 185798 measurements = 0.005382 s (5.38 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 185871 - RTS/CTS lost = 72  (0.04 % lost)
+    · RTS lost due to slotted BO = 72 (0.038737 %)
+  - Data packets sent = 185799 - ACKed = 185798 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 185871 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 617.156144 s (61.72 %)
+    · - 2: 316.750628 s (31.68 %)
+    · - 4: 1.658660 s (0.17 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 318.41 s (31.84 %)
+    · - 1 = 935.57 s (93.56 %)
+    · - 2 = 1.66 s (0.17 %)
+    · - 3 = 1.66 s (0.17 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 322.14 s (32.21 %)
+    · - 1 = 943.00 s (94.30 %)
+    · - 2 = 1.69 s (0.17 %)
+    · - 3 = 1.69 s (0.17 %)
+       + - Average bandwidth used for transmitting = 25.37 MHz / 80 MHz (31.71 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 92444 (49.74 %)
+    · - 2: 92402 (49.71 %)
+    · - 4: 1025 (0.55 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000111 (12.304907 slots)
+  - Expected BO = 0.000068 (7.527134 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 142.013184 Mbps (184.91 pkt/s)
+  - Average delay from 184912 measurements = 0.005408 s (5.41 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 184985 - RTS/CTS lost = 72  (0.04 % lost)
+    · RTS lost due to slotted BO = 72 (0.038922 %)
+  - Data packets sent = 184913 - ACKed = 184912 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 184985 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 616.852968 s (61.69 %)
+    · - 2: 317.142136 s (31.71 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 934.00 s (93.40 %)
+    · - 3 = 317.14 s (31.71 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 941.39 s (94.14 %)
+    · - 3 = 320.84 s (32.08 %)
+       + - Average bandwidth used for transmitting = 25.24 MHz / 40 MHz (63.11 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 92434 (49.97 %)
+    · - 2: 92551 (50.03 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000121 (13.432690 slots)
+  - Expected BO = 0.000068 (7.508376 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_01_cb6.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_01_cb6.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 3708743 events processed in 15.736 seconds, event processing rate: 235679
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb0.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_02_cb0.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 109.363968 Mbps (142.40 pkt/s)
+  - Average delay from 142400 measurements = 0.007022 s (7.02 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142401 - RTS/CTS lost = 0  (0.00 % lost)
+    · RTS lost due to slotted BO = 0 (0.000000 %)
+  - Data packets sent = 142401 - ACKed = 142400 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142401 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 950.662400 s (95.07 %)
+    · - 2: 0.000000 s (0.00 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 950.66 s (95.07 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 956.37 s (95.64 %)
+    · - 1 = 0.00 s (0.00 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.13 MHz / 40 MHz (47.82 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 142401 (100.00 %)
+    · - 2: 0 (0.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000110 (12.274411 slots)
+  - Expected BO = 0.000067 (7.496640 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 109.364736 Mbps (142.40 pkt/s)
+  - Average delay from 142401 measurements = 0.007022 s (7.02 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142402 - RTS/CTS lost = 0  (0.00 % lost)
+    · RTS lost due to slotted BO = 0 (0.000000 %)
+  - Data packets sent = 142402 - ACKed = 142401 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142402 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 950.669076 s (95.07 %)
+    · - 2: 0.000000 s (0.00 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 950.67 s (95.07 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 0.00 s (0.00 %)
+    · - 1 = 956.37 s (95.64 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.13 MHz / 40 MHz (47.82 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 142402 (100.00 %)
+    · - 2: 0 (0.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000110 (12.264126 slots)
+  - Expected BO = 0.000067 (7.486356 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb0.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_02_cb0.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 2848045 events processed in 11.668 seconds, event processing rate: 244081
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb2.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_02_cb2.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 102.241536 Mbps (133.13 pkt/s)
+  - Average delay from 133127 measurements = 0.007512 s (7.51 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 149598 - RTS/CTS lost = 16471  (11.01 % lost)
+    · RTS lost due to slotted BO = 16471 (11.010174 %)
+  - Data packets sent = 133127 - ACKed = 133127 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 149598 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 458.204108 s (45.82 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 458.20 s (45.82 %)
+    · - 1 = 458.20 s (45.82 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 462.61 s (46.26 %)
+    · - 1 = 462.61 s (46.26 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 18.50 MHz / 40 MHz (46.26 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 149598 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.003411 (378.974216 slots)
+  - Expected BO = 0.000077 (8.563660 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 102.237696 Mbps (133.12 pkt/s)
+  - Average delay from 133121 measurements = 0.007512 s (7.51 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 149593 - RTS/CTS lost = 16471  (11.01 % lost)
+    · RTS lost due to slotted BO = 16471 (11.010542 %)
+  - Data packets sent = 133122 - ACKed = 133121 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 149593 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 458.183540 s (45.82 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 458.18 s (45.82 %)
+    · - 1 = 458.18 s (45.82 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 462.59 s (46.26 %)
+    · - 1 = 462.59 s (46.26 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 18.50 MHz / 40 MHz (46.26 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 149593 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.003411 (379.003304 slots)
+  - Expected BO = 0.000077 (8.564004 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb2.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_02_cb2.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 3093467 events processed in 12.647 seconds, event processing rate: 244601
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb4.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_02_cb4.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 102.241536 Mbps (133.13 pkt/s)
+  - Average delay from 133127 measurements = 0.007512 s (7.51 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 149598 - RTS/CTS lost = 16471  (11.01 % lost)
+    · RTS lost due to slotted BO = 16471 (11.010174 %)
+  - Data packets sent = 133127 - ACKed = 133127 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 149598 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 458.204108 s (45.82 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 458.20 s (45.82 %)
+    · - 1 = 458.20 s (45.82 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 462.61 s (46.26 %)
+    · - 1 = 462.61 s (46.26 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 18.50 MHz / 40 MHz (46.26 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 149598 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.003411 (378.974216 slots)
+  - Expected BO = 0.000077 (8.563660 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 102.237696 Mbps (133.12 pkt/s)
+  - Average delay from 133121 measurements = 0.007512 s (7.51 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 149593 - RTS/CTS lost = 16471  (11.01 % lost)
+    · RTS lost due to slotted BO = 16471 (11.010542 %)
+  - Data packets sent = 133122 - ACKed = 133121 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 149593 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 0.000000 s (0.00 %)
+    · - 2: 458.183540 s (45.82 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 458.18 s (45.82 %)
+    · - 1 = 458.18 s (45.82 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 462.59 s (46.26 %)
+    · - 1 = 462.59 s (46.26 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 18.50 MHz / 40 MHz (46.26 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 0 (0.00 %)
+    · - 2: 149593 (100.00 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.003411 (379.003304 slots)
+  - Expected BO = 0.000077 (8.564004 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb4.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_02_cb4.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 3093467 events processed in 16.344 seconds, event processing rate: 189269
+../output/script_output_csv.csv
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb6.csv' (seed 1991)------------------------------------------
+ SIMULATION 'sim_toy_scenario_02_cb6.csv' STARTED
+ PROGRESS BAR:
+* 0 % *
+* 5 % *
+* 10 % *
+* 15 % *
+* 20 % *
+* 25 % *
+* 30 % *
+* 35 % *
+* 40 % *
+* 45 % *
+* 50 % *
+* 55 % *
+* 60 % *
+* 65 % *
+* 70 % *
+* 75 % *
+* 80 % *
+* 85 % *
+* 90 % *
+* 95 % *
+* 100 % *
+------- AP_A (N0) ------
+  - Throughput = 109.283328 Mbps (142.30 pkt/s)
+  - Average delay from 142295 measurements = 0.007028 s (7.03 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142538 - RTS/CTS lost = 242  (0.17 % lost)
+    · RTS lost due to slotted BO = 242 (0.169779 %)
+  - Data packets sent = 142296 - ACKed = 142295 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142538 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 939.354308 s (93.94 %)
+    · - 2: 5.469896 s (0.55 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 944.82 s (94.48 %)
+    · - 1 = 5.47 s (0.55 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 950.51 s (95.05 %)
+    · - 1 = 5.52 s (0.55 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.12 MHz / 40 MHz (47.80 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 140775 (98.76 %)
+    · - 2: 1763 (1.24 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000151 (16.827738 slots)
+  - Expected BO = 0.000068 (7.521594 slots)
+
+
+------- AP_B (N2) ------
+  - Throughput = 109.272576 Mbps (142.28 pkt/s)
+  - Average delay from 142281 measurements = 0.007028 s (7.03 ms)
+  - Average rho = 0.000000 (0.00 %)
+    · 0/0
+  - Average utilization = 0.000000 (0.00 %)
+    · 0/0
+  - RTS/CTS sent = 142524 - RTS/CTS lost = 242  (0.17 % lost)
+    · RTS lost due to slotted BO = 242 (0.169796 %)
+  - Data packets sent = 142282 - ACKed = 142281 -  Lost = 0  (0.000000 % lost)
+  - Buffer: packets generated = 0 (0.00 pkt/s) - Packets dropped = 0  (0.000000 % drop ratio)
+  - Buffer: num bursts = 0
+  - num_tx_init_tried = 142524 - num_tx_init_not_possible = 0 (0.000000 % failed)
+    · Time EFFECTIVELY transmitting in N channels:
+    · - 1: 939.389816 s (93.94 %)
+    · - 2: 5.402636 s (0.54 %)
+    · Time EFFECTIVELY transmitting in each channel:
+    · - 0 = 5.40 s (0.54 %)
+    · - 1 = 944.79 s (94.48 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+    · Time occupying the spectrum in each channel:
+    · - 0 = 5.46 s (0.55 %)
+    · - 1 = 950.48 s (95.05 %)
+    · - 2 = 0.00 s (0.00 %)
+    · - 3 = 0.00 s (0.00 %)
+       + - Average bandwidth used for transmitting = 19.12 MHz / 40 MHz (47.80 %)
+
+    · Number of tx trials per number of channels:
+    · - 1: 140799 (98.79 %)
+    · - 2: 1725 (1.21 %)
+    · - 4: 0 (0.00 %)
+  - num_tx_init_not_possible = 0
+  - average_waiting_time = 0.000152 (16.856468 slots)
+  - Expected BO = 0.000067 (7.495082 slots)
+
+
+ KOMONDOR SIMULATION 'sim_toy_scenario_02_cb6.csv' (seed 1991)
+ SIMULATION 'sim_toy_scenario_02_cb6.csv' FINISHED
+------------------------------------------
+# -------------------------------------------------------------------------
+# CostSimEng with SimpleQueue, stopped at 1000.000000
+# 2851295 events processed in 12.602 seconds, event processing rate: 226262

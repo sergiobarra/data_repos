@@ -1,0 +1,1 @@
+The data contained in this folder corresponds to the results presented in the paper Barrachina-Munoz, Sergio, Francesc Wilhelmi, and Boris Bellalta. "Performance Analysis of Dynamic Channel Bonding in Spatially Distributed High Density WLANs." 2018.

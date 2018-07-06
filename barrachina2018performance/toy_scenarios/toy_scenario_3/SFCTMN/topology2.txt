@@ -1,0 +1,4 @@
+% code, primary, left ch, right ch, tx_power, cca, cw, x_ap, y_ap, z_ap, x_sta, y_sta, z_sta
+1,      1,      1,      1,      15,      -82,      16,     0,    0,    0,    0,      1,    0
+2,      1,      1,      1,      15,      -82,      16,     20,    0,    0,    20,      1,    0
+3,      1,      1,      1,      15,      -82,      16,     40,    0,    0,    40,      1,    0

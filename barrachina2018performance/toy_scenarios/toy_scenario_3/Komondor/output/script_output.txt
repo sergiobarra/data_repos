@@ -1,0 +1,6 @@
+ KOMONDOR SIMULATION 'sim_input_nodes_topology1.csv' (seed 1991);0.00000;41.459;41.309;41.530
+ KOMONDOR SIMULATION 'sim_input_nodes_topology1_noCE.csv' (seed 1991);0.22049;36.425;36.748;36.540
+ KOMONDOR SIMULATION 'sim_input_nodes_topology2.csv' (seed 1991);0.00000;107.989;1.574;107.978
+ KOMONDOR SIMULATION 'sim_input_nodes_topology3.csv' (seed 1991);0.00000;109.367;82.943;109.361
+ KOMONDOR SIMULATION 'sim_input_nodes_topology3_noCE.csv' (seed 1991);0.01719;109.362;0.000;109.363
+ KOMONDOR SIMULATION 'sim_input_nodes_topology4.csv' (seed 1991);0.00000;109.365;109.360;109.362
