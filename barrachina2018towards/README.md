@@ -1,0 +1,1 @@
+The data contained in this folder corresponds to the results presented in the paper Barrachina-Muñoz S, Adame T, Bel A, Bellalta B. "**Towards Energy Efficient LPWANs through Learning-based Multi-hop Routing for the Uplink**", 2018.

@@ -1,0 +1,27 @@
+Beware of these variables when setting up an experiment.
+
+****
+.h
+****
+- MAX_STA: 9
+- MAX_CHILDREN: MAX_STA
+
+****
+Others core
+****
+- BO in CSMA file: min 1, max 1 (same for STA and GW)
+- Data rate: 50 kbps
+
+****
+*GW*
+****
+- T_DUTY_CYCLE: 120
+- CONF_MAX_CHILD: MAX_STA
+- Epsilon routing: eps-MH
+- NUM_BEACONS_POWER_AVERAGING: 20
+
+*****
+*STA*
+*****
+- DEBUG: 0
+- PREDEFINED_NODE_ID: 1 to 9

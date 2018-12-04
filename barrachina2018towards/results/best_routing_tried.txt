@@ -1,0 +1,10 @@
+[01/03 03:36:45] [STUDY]++++++++++++++  ROUTING TABLE (Associated STAs: 9) ++++++++++++++
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.1] 	 | ID:1 	 | MAC:00:12:4b:00:06:15:aa:52  |  Next Hop: 10.0  [0]  |  Ring: 1  |  #Children: 2  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.2] 	 | ID:2 	 | MAC:00:12:4b:00:06:15:ab:18  |  Next Hop: 10.5  [5]  |  Ring: 3  |  #Children: 2  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.3] 	 | ID:3 	 | MAC:00:12:4b:00:06:15:aa:54  |  Next Hop: 10.2  [2]  |  Ring: 4  |  #Children: 0  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.4] 	 | ID:4 	 | MAC:00:12:4b:00:06:15:9f:2c  |  Next Hop: 10.0  [0]  |  Ring: 1  |  #Children: 0  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.5] 	 | ID:5 	 | MAC:00:12:4b:00:06:15:ab:45  |  Next Hop: 10.1  [1]  |  Ring: 2  |  #Children: 2  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.6] 	 | ID:6 	 | MAC:00:12:4b:00:06:15:9f:57  |  Next Hop: 10.1  [1]  |  Ring: 2  |  #Children: 1  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.7] 	 | ID:7 	 | MAC:00:12:4b:00:06:15:aa:4f  |  Next Hop: 10.5  [5]  |  Ring: 3  |  #Children: 0  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.8] 	 | ID:8 	 | MAC:00:12:4b:00:06:15:9f:ef  |  Next Hop: 10.6  [6]  |  Ring: 3  |  #Children: 0  |  #Beacons Lost: 0  |  Associated: 1 
+[01/03 03:36:45] [STUDY][ROUTE]29: [10.9] 	 | ID:9 	 | MAC:00:12:4b:00:06:15:9f:92  |  Next Hop: 10.2  [2]  |  Ring: 4  |  #Children: 0  |  #Beacons Lost: 0  |  Associated: 1 
